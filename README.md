@@ -1,12 +1,6 @@
 React Todo App ✓
 A clean, animated task management app built with React. Features priority levels, filtering, smooth animations, and a polished UI — built to showcase modern React development practices.
 
-Live Demo
-🔗 View Live App ← replace with your Vercel link
-
-Screenshots
-
-Add a screenshot here after you deploy — drag an image into GitHub and paste the link
 
 
 Features
